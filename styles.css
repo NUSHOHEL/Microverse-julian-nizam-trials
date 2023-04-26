@@ -1,0 +1,14 @@
+@media screen and (max-width: 480px) {
+  body {
+    background-color: rgb(179, 180, 179);
+  }
+}
+#welcome-section {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#navbar {
+  position: fixed;
+}
